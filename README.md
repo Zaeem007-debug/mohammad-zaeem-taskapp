@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### VIDEO LINK OF WORKING PROJECT
-https://www.loom.com/share/20ed0068f77342d9b127098687c26973?t=27&sid=66120053-938c-444b-8ac2-e4372688eee7
+https://www.loom.com/share/20ed0068f77342d9b127098687c26973
