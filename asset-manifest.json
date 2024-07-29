@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/taskapp/static/css/main.ecddb00f.css",
-    "main.js": "/taskapp/static/js/main.02069d5b.js",
-    "static/js/453.a529e84b.chunk.js": "/taskapp/static/js/453.a529e84b.chunk.js",
-    "static/media/logo.svg": "/taskapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/taskapp/index.html",
-    "main.ecddb00f.css.map": "/taskapp/static/css/main.ecddb00f.css.map",
-    "main.02069d5b.js.map": "/taskapp/static/js/main.02069d5b.js.map",
-    "453.a529e84b.chunk.js.map": "/taskapp/static/js/453.a529e84b.chunk.js.map"
+    "main.css": "/mohammad-zaeem-taskapp/static/css/main.ecddb00f.css",
+    "main.js": "/mohammad-zaeem-taskapp/static/js/main.082cfee3.js",
+    "static/js/453.a529e84b.chunk.js": "/mohammad-zaeem-taskapp/static/js/453.a529e84b.chunk.js",
+    "static/media/logo.svg": "/mohammad-zaeem-taskapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mohammad-zaeem-taskapp/index.html",
+    "main.ecddb00f.css.map": "/mohammad-zaeem-taskapp/static/css/main.ecddb00f.css.map",
+    "main.082cfee3.js.map": "/mohammad-zaeem-taskapp/static/js/main.082cfee3.js.map",
+    "453.a529e84b.chunk.js.map": "/mohammad-zaeem-taskapp/static/js/453.a529e84b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecddb00f.css",
-    "static/js/main.02069d5b.js"
+    "static/js/main.082cfee3.js"
   ]
 }
